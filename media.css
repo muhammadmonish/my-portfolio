@@ -1,0 +1,284 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {}
+
+
+
+@media (min-width: 412px) and (max-width: 915px) {
+
+  .content-service {
+    
+    padding-top: 0 !important;
+}
+
+  
+}
+
+/* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 360px) and (max-width: 740px) {
+
+  .section-1-h1 {
+    margin-top: -175px !important;
+}
+#skill {
+  height: 195vh !important;
+}
+.content-service {
+  height: 153vh !important;
+}
+.service-sec {
+  padding-bottom: 122vh !important;
+}
+#bacground-img {
+  height: 181vh !important;
+}
+#six-div {
+  height: 136vh !important;
+}
+#portfolio {
+  height: 300vh !important;
+}
+input {
+  width: 323px !important;
+  margin-left: 3px !important;
+  padding: 29px !important;
+}
+}
+
+/* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 390px) and (max-width: 844px)  {
+
+
+
+  .section-1-h1 {
+    margin-top: -263px !important;
+}
+#morgan-freeman {
+  margin-top: 535px !important;
+  
+}
+#skill {
+  height: 169vh !important;
+}
+.content-service {
+  height: 118vh !important;
+}
+.service-sec {
+  padding-bottom: 94vh !important;
+}
+#bacground-img {
+  height: 162vh !important;
+}
+#six-div {
+  height: 128vh !important;
+}
+#portfolio {
+  height: 285vh !important;
+}
+}
+
+/* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+
+@media (min-width: 414px) and (max-width: 896px) {
+
+
+  
+  
+  
+  .section-1-h1 {
+    margin-top: -338px !important;
+}
+#morgan-freeman {
+  
+  margin-top: 466px !important;
+}
+.service-sec {
+    padding-bottom: 88vh !important;
+}
+.content-service {
+  height: 109vh !important;
+}
+#six-div {
+  height: 130vh !important;
+}
+#bacground-img {
+  height: 160vh !important;
+}
+#skill {
+  height: 159vh !important;
+}
+#portfolio {
+  height: 280vh !important;
+}
+#send-us {
+ 
+  padding: 10rem 0px 14rem 0px !important;
+}
+}
+
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  .navbar-toggler {
+    background-color: #fff !important;
+  }
+
+  #nav-2 {
+    font-size: 30px;
+    padding-left: 0px;
+  }
+
+  #nav-1 {
+    padding-left: 20px;
+  }
+
+  #section-1 {
+    background-position: top;
+    background-size: cover;
+  }
+
+  .section-1-h1 {
+    font-size: 49px;
+    margin-top: 35px;
+  }
+
+  #morgan-freeman {
+    padding-left: 18px;
+    padding-top: 40px;
+    margin-top: 676px;
+    font-size: 17px;
+  }
+
+  .HTML {
+    margin: 7px;
+    font-size: 14px;
+
+  }
+
+  #skill {
+    height: 213vh;
+  }
+
+  .about-info {
+    padding-top: 20px;
+    font-size: 14px;
+  }
+
+  .content-service {
+    height: 170vh;
+  }
+
+  .heading {
+    font-size: 50px;
+  }
+
+  .service-sec {
+    padding-bottom: 142vh;
+
+  }
+
+  #bacground-img {
+    height: 215vh;
+  }
+
+  .section-4-div-2 i {
+    margin-left: 142px;
+  }
+
+  .section-4-div-2-h3 {
+    margin-left: 139px;
+  }
+
+  .section-4-div-2 p {
+    margin-right: -158px;
+  }
+
+  .col-4 {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .blog-lorm {
+    font-size: 50px;
+  }
+
+  .total {
+    margin-left: -64px;
+  }
+
+  #bacground-img {
+    height: 203vh;
+  }
+
+  #six-div {
+    height: 156vh;
+  }
+
+  .folio {
+    font-size: 45px;
+  }
+
+  #portfolio {
+    height: 345vh;
+  }
+
+  input {
+    width: 323px;
+    margin-left: 17px;
+
+  }
+
+  .background-div {
+    height: auto;
+  }
+
+  .first-message {
+    width: 323px;
+  }
+
+  #send-us {
+    height: auto !important;
+    padding-bottom: 3rem !important;
+    padding: 16rem 0px 22rem 0px !important;
+
+  }
+
+  .contact-row {
+    margin-right: opx !important;
+  }
+
+  .sub-content {
+    padding-left: 29px;
+  }
+
+  .boston {
+    padding-left: 29px;
+  }
+
+  .sub-tittle {
+    padding-left: 29px;
+    padding-top: 30px;
+  }
+
+  .footer-div {
+    padding: 1rem 0px 2rem 7px !important;
+  }
+}
